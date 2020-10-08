@@ -1,4 +1,4 @@
-# Edithon
+# Edithon (edih-thon)
 **Edithon is a voice assistant that is simple to use, modify, and even has tons of space for your own programs.** Edithon was started when I was trying to make a pair of smart glasses, but could not get the hardware for the glasses in time. Because of this, I was left with a software voice assistant that I could not use, but I didn't know if someone else had a better use for it, so I decided to post it on Github. I have removed all of the smart glasses code so that you can build whatever you want. Please use this as a base for your projects, as I want to see the potential that this project could have had.
 
 
