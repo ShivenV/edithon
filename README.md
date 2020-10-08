@@ -5,8 +5,10 @@
 # Files
 There are 2 different files in this program. 'main' is the brains of the entire assistant. It contains all of the different statements, and is where everything is based on. 'commands' is where the commands are stored, and where the main program will access in order to determine what to run. In the future I will be adding a web file so that the user can easily add their own functions using that web program as opposed to directly modifying edithon, and possibly risking errors.
 ## Creating Functions
-
+In short:
 In order to create a new function, edit the commands document, and add your very own function to the program. **Be sure to also add your function to the function dictionary for Edithon to access your commands.**
+
+In the future there will be a more detailed video guide on how to make your own functions, but as we are currently in the alpha state of this project, this will have to wait.
 ## Example Edithon Projects
 
 Coming Soon! Let me know what you made with Edithon by emailing me at 'shivenvermabuisness(at)gmail.com' . The @ sign was replaced with (at) to avoid email bots scraping for spam.
